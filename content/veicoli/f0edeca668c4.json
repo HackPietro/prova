@@ -1,0 +1,15 @@
+{
+  "titolo": "prova",
+  "prezzo": null,
+  "kilometri": null,
+  "anno": null,
+  "alimentazione": "",
+  "cambio": "",
+  "cilindrata": null,
+  "potenza": null,
+  "kilowatt": null,
+  "info": "",
+  "galleria": [
+    "/assets/img/veicoli/foto2.jpeg"
+  ]
+}
