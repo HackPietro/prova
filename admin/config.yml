@@ -9,15 +9,10 @@ media_folder: "assets/img/veicoli"
 public_folder: "/assets/img/veicoli"
  
 
-media_processing:
-  enabled: true
-  format:
-    enabled: true
-    default: webp
-  quality: 75
-  strip_metadata: true
-  width: 1600
-  height: null
+media_transforms:
+  - format: webp
+    quality: 75
+    max_width: 1600
  
 collections:
   - name: "veicoli"
