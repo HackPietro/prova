@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  const GITHUB_USERNAME = "autofllimingrone";
-  const GITHUB_REPO = "Ionica-Auto-Fratelli-Mingrone";
+  const GITHUB_USERNAME = "HackPietro";
+  const GITHUB_REPO = "prova";
 
   const detailEl = document.getElementById('vehicleDetail');
   const params = new URLSearchParams(window.location.search);

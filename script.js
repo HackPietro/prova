@@ -76,8 +76,8 @@ document.addEventListener('DOMContentLoaded', () => {
   let allVehiclesData = [];
   let currentPage = 1;
 
-  const GITHUB_USERNAME = "autofllimingrone"; 
-  const GITHUB_REPO = "Ionica-Auto-Fratelli-Mingrone";
+  const GITHUB_USERNAME = "HackPietro"; 
+  const GITHUB_REPO = "prova";
 
   async function fetchVehicles() {
     try {
