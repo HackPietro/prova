@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: HackPietro/prova
+  repo: autofllimingrone/Ionica-Auto-Fratelli-Mingrone
   branch: main
 
 locale: 'it'
