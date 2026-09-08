@@ -1,5 +1,5 @@
 {
-  "titolo": "prova",
+  "titolo": "sss",
   "prezzo": null,
   "kilometri": null,
   "anno": null,
@@ -10,6 +10,6 @@
   "kilowatt": null,
   "info": "",
   "galleria": [
-    "/assets/img/veicoli/foto2.jpeg"
+    "/assets/img/veicoli/logo.webp"
   ]
 }
