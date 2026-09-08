@@ -22,7 +22,7 @@ collections:
     label: "Veicoli"
     folder: "content/veicoli"
     create: true
-    slug: "{{slug}}"
+    slug: "{{fields.titolo}}"
     extension: "json"
     format: "json"
     fields:
