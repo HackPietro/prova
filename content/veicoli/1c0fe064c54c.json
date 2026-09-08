@@ -1,0 +1,16 @@
+{
+  "titolo": "Fiat 500",
+  "prezzo": 3000,
+  "kilometri": 123000,
+  "anno": 2012,
+  "alimentazione": "Diesel",
+  "cambio": "",
+  "cilindrata": 1500,
+  "potenza": 333,
+  "kilowatt": null,
+  "info": "",
+  "galleria": [
+    "/assets/img/veicoli/foto5.jpeg",
+    "/assets/img/veicoli/foto6.jpeg"
+  ]
+}
