@@ -9,10 +9,13 @@ media_folder: "assets/img/veicoli"
 public_folder: "/assets/img/veicoli"
  
 
-media_transforms:
-  - format: webp
-    quality: 75
-    max_width: 1600
+media_libraries:
+  all:
+    transformations:
+      raster_image:
+        format: webp
+        quality: 75
+        width: 1600
  
 collections:
   - name: "veicoli"
